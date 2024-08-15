@@ -11,6 +11,12 @@ In file Projects/Multi/Applications/LoRa/DRAGINO-LRWAN(AT)/inc/hw_conf.h
 
     #define LoRa_Sensor_Node /*LSN50*/      --- For LSN50
     //#define AT_Data_Send /*AT+SEND or AT+SENDB*/    --- For LoRa ST
+
+Keil uVision5 download link:
+https://www.keil.com/download/
+
+Default location:
+./Stm32-LSN50_V2/STM32CubeExpansion_LRWAN/Projects/Multi/Applications/LoRa/DRAGINO-LRWAN(AT)/MDK-ARM/STM32L072CZ-Nucleo/
 	
 	
 
